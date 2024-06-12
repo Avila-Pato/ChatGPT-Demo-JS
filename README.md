@@ -1,4 +1,4 @@
-# ChatGPT Especial para Navegador
+# ChatGPT para los pobres
 
 Este proyecto es un chatbot impulsado por inteligencia artificial que se ejecuta completamente en el navegador web, sin necesidad de un backend ni APIs externas. Utiliza Web Workers para mejorar el rendimiento y la experiencia del usuario al procesar las solicitudes de manera eficiente en segundo plano.
 
